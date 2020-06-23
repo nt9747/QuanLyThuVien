@@ -1,0 +1,78 @@
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDauSach.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormHelp.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangKy.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangKy.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDauSach.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormHelp.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\LA THANH\Desktop\THỰC TẬP NHÓM\nhom6\QuanLyThuVien-Nhom6\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangKy.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDauSach.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDocGia.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormHelp.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormLogin.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMuonTra.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormThemDauSach.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormTimDocGia_MuonTra.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\nghia\thuc tap nhom\QuanLyThuVien (1)\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangKy.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDauSach.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDocGia.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormHelp.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormLogin.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMuonTra.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormThemDauSach.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormTimDocGia_MuonTra.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\thuctapnhom\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormBoSungSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormBoSungSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangKy.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDauSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormHelp.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormLogin.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMain.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMuonTra.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormThemDauSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormTimDocGia_MuonTra.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
