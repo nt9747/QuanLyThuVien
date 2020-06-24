@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace QuanLyThuVien
 {
-    class globalParameter
+    class globalParameter 
     {
         public static String str = @"Data Source=DESKTOP-GOAN3SH\SQLEXPRESS;Initial Catalog=QuanLyThuVien;Integrated Security=True";
     }
