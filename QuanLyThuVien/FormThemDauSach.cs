@@ -156,3 +156,14 @@ namespace QuanLyThuVien
 
         }
 
+        private void FormThemDauSach_Load(object sender, EventArgs e)
+        {
+            getdata2();
+        }
+
+        private void txtTen_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
