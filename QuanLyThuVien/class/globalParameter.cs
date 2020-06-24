@@ -10,6 +10,6 @@ namespace QuanLyThuVien
 {
     class globalParameter
     {
-        public static String str = @"Data Source=DESKTOP-GOAN3SH\SQLEXPRESS;Initial Catalog=QuanLyThuVien;Integrated Security=True";
+        public static String str = @"Data Source=DESKTOP-NJ53986\NEYUNGOUD;Initial Catalog=QuanLyThuVien;Integrated Security=True";
     }
 }
